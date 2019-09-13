@@ -1,0 +1,17 @@
+01-21 10:38:53.566: V/DroidBox(427): Landroid/content/Intent;-><init>(Ljava/lang/String;=work.service.xm_main)V
+01-21 10:38:53.616: V/DroidBox(427): Landroid/telephony/TelephonyManager;->getDeviceId()Ljava/lang/String;=000000000000000
+01-21 10:38:53.626: V/DroidBox(427): Landroid/content/Intent;-><init>(Landroid/content/Context;=com.nicky.lyyws.xmall.MainService@405195a8 | Ljava/lang/Class;=class com.nicky.lyyws.xmall.AlarmReceiver)V
+01-21 10:38:53.676: V/DroidBox(427): Landroid/content/Intent;-><init>(Landroid/content/Context;=com.nicky.lyyws.xmall.MainService@405195a8 | Ljava/lang/Class;=class com.nicky.lyyws.xmall.SocketService)V
+01-21 10:38:53.676: V/DroidBox(427): Landroid/content/Intent;-><init>(Landroid/content/Context;=com.nicky.lyyws.xmall.MainService@405195a8 | Ljava/lang/Class;=class com.nicky.lyyws.xmall.GpsService)V
+01-21 10:38:53.686: V/DroidBox(427): Landroid/content/Intent;-><init>(Landroid/content/Context;=com.nicky.lyyws.xmall.MainService@405195a8 | Ljava/lang/Class;=class com.nicky.lyyws.xmall.XM_CallListener)V
+01-21 10:38:53.696: V/DroidBox(427): Landroid/content/Intent;-><init>(Landroid/content/Context;=com.nicky.lyyws.xmall.MainService@405195a8 | Ljava/lang/Class;=class com.nicky.lyyws.xmall.XM_SmsListener)V
+01-21 10:38:53.696: V/DroidBox(427): Landroid/content/Intent;-><init>(Landroid/content/Context;=com.nicky.lyyws.xmall.MainService@405195a8 | Ljava/lang/Class;=class com.nicky.lyyws.xmall.XM_CallRecordService)V
+01-21 10:38:53.736: V/DroidBox(427): Landroid/telephony/TelephonyManager;->getDeviceId()Ljava/lang/String;=000000000000000
+01-21 10:38:53.746: V/DroidBox(427): Landroid/telephony/TelephonyManager;->getDeviceId()Ljava/lang/String;=000000000000000
+01-21 10:38:53.786: V/DroidBox(427): Landroid/content/Intent;-><init>(Ljava/lang/String;=work.service.upinfo)V
+01-21 10:38:53.856: V/DroidBox(427): Landroid/content/ContentResolver;->registerContentObserver(Landroid/net/Uri;=content://call_log/calls | Z=true | Landroid/database/ContentObserver;=com.nicky.lyyws.xmall.XM_CallListener$CallContent@40550870)V
+01-21 10:38:53.876: V/DroidBox(427): Landroid/telephony/TelephonyManager;->getDeviceId()Ljava/lang/String;=000000000000000
+01-21 10:38:53.876: V/DroidBox(427): Landroid/net/Uri;->parse(Ljava/lang/String;=content://sms/)Landroid/net/Uri;=content://sms/
+01-21 10:38:53.876: V/DroidBox(427): Landroid/content/ContentResolver;->registerContentObserver(Landroid/net/Uri;=content://sms/ | Z=true | Landroid/database/ContentObserver;=com.nicky.lyyws.xmall.XM_SmsListener$SmsContent@40553990)V
+01-21 10:38:53.876: V/DroidBox(427): Landroid/telephony/TelephonyManager;->getDeviceId()Ljava/lang/String;=000000000000000
+01-21 10:38:53.906: V/DroidBox(427): Landroid/content/Intent;-><init>(Landroid/content/Context;=com.nicky.lyyws.xmall.XM_CallRecordService@40555c38 | Ljava/lang/Class;=class com.nicky.lyyws.xmall.RecordService)V
